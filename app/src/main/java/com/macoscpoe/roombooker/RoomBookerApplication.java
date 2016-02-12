@@ -11,6 +11,7 @@ import com.macoscpoe.roombooker.injector.module.ApplicationModule;
  * Copyright © 2015 Macoscope sp. z o.o. All rights reserved.
  */
 public class RoomBookerApplication extends Application {
+    // app component
     private ApplicationComponent applicationComponent;
 
     @Override
